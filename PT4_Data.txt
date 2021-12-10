@@ -1,0 +1,27 @@
+
+<<Searching Array>>
+
+Enter number to be searched: 52
+Element found at index 2
+
+
+
+<<Ascending Sorting>>
+
+Enter size of array: 3
+Enter element [1] 90
+Enter element [2] 45
+Enter element [3] 88
+Elements of array - ascending order:
+45 88 90 
+
+<<Descending Sorting>>
+
+Enter size of array: 5
+Enter element [1] 20
+Enter element [2] 10
+Enter element [3] 8
+Enter element [4] 90
+Enter element [5] 23
+Elements of array - descending order:
+90 23 20 10 8 
